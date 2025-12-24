@@ -26,7 +26,7 @@ Represents a single node of the doubly linear linked list.
 
 Data Members
 
-int data – Stores node data
+int data – Stores node data 
 
 node next – Reference to the next node
 

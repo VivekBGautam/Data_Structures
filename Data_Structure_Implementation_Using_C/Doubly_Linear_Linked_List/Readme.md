@@ -75,6 +75,7 @@ Doubly linked list traversal
 ##  Author
 
 Vivek B. Gautam
+
  Email: vivekbgautam@gmail.com
 
  GitHub: https://github.com/viivekbgautam

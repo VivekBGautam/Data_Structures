@@ -57,7 +57,9 @@ gcc Filename.c -o Myexe
 ## Author
 
 **Vivek B. Gautam**
+
  Email: [vivekbgautam@gmail.com](mailto:vivekbgautam@gmail.com)
+ 
  GitHub: [https://github.com/viivekbgautam](https://github.com/viivekbgautam)
 
 ---

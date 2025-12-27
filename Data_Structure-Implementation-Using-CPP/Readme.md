@@ -8,7 +8,7 @@ Each linked list demonstrates different pointer relationships, traversal techniq
 ### Singly Linear Linked List
 
 A collection of nodes where:
-
+ 
 Each node stores data
 
 Each node points to the next node

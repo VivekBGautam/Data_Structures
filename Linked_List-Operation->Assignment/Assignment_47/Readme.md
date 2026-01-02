@@ -1,4 +1,4 @@
-Assignment_47
+# Assignment_47
 
 Here contains multiple **C programs** that perform various operations on a **Singly Linear Linked List**.  
 These programs focus on **reverse traversal, digit operations, and prime number operations**, helping to understand advanced linked list manipulations.
@@ -36,5 +36,6 @@ Run - Myexe.exe:
 ### Name: Vivek Gautam
 
 Email: vivekbgautam@gmail.com
+
 
 GitHub: https://github.com/vivebgautam

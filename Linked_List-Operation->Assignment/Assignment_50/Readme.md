@@ -46,8 +46,9 @@ Description: Counts and displays the number of nodes present at a given Nth posi
 
 ## Author
 
-#### Name: Vivek Gautam
+### Name: Vivek Gautam
 
 ### Email: vivekgautam@example.com
+
 
 ### GitHub: https://github.com/vivekgautam
